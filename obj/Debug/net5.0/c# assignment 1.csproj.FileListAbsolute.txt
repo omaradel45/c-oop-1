@@ -1,0 +1,15 @@
+C:\Users\misho\source\repos\c# assignment 1\c# assignment 1\bin\Debug\net5.0\c# assignment 1.exe
+C:\Users\misho\source\repos\c# assignment 1\c# assignment 1\bin\Debug\net5.0\c# assignment 1.deps.json
+C:\Users\misho\source\repos\c# assignment 1\c# assignment 1\bin\Debug\net5.0\c# assignment 1.runtimeconfig.json
+C:\Users\misho\source\repos\c# assignment 1\c# assignment 1\bin\Debug\net5.0\c# assignment 1.runtimeconfig.dev.json
+C:\Users\misho\source\repos\c# assignment 1\c# assignment 1\bin\Debug\net5.0\c# assignment 1.dll
+C:\Users\misho\source\repos\c# assignment 1\c# assignment 1\bin\Debug\net5.0\c# assignment 1.pdb
+C:\Users\misho\source\repos\c# assignment 1\c# assignment 1\obj\Debug\net5.0\c# assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misho\source\repos\c# assignment 1\c# assignment 1\obj\Debug\net5.0\c# assignment 1.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\c# assignment 1\c# assignment 1\obj\Debug\net5.0\c# assignment 1.AssemblyInfo.cs
+C:\Users\misho\source\repos\c# assignment 1\c# assignment 1\obj\Debug\net5.0\c# assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\c# assignment 1\c# assignment 1\obj\Debug\net5.0\c# assignment 1.dll
+C:\Users\misho\source\repos\c# assignment 1\c# assignment 1\obj\Debug\net5.0\refint\c# assignment 1.dll
+C:\Users\misho\source\repos\c# assignment 1\c# assignment 1\obj\Debug\net5.0\c# assignment 1.pdb
+C:\Users\misho\source\repos\c# assignment 1\c# assignment 1\obj\Debug\net5.0\c# assignment 1.genruntimeconfig.cache
+C:\Users\misho\source\repos\c# assignment 1\c# assignment 1\obj\Debug\net5.0\ref\c# assignment 1.dll
